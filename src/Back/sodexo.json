@@ -1,0 +1,63 @@
+{
+  "Robotti": {
+    "name": "Ravintola RoBotti",
+    "location": "Riihimäki",
+    "open": {
+      "Maanantai": {
+        "Kahvila": "07.45 - 15.00",
+        "Lounas": "10.30 - 13.30"
+      },
+      "Tiistai": {
+        "Kahvila": "07.45 - 15.00",
+        "Lounas": "10.30 - 13.30"
+      },
+      "Keskiviikko": {
+        "Kahvila": "07.45 - 15.00",
+        "Lounas": "10.30 - 13.30"
+      },
+      "Torstai": {
+        "Kahvila": "07.45 - 15.00",
+        "Lounas": "10.30 - 13.30"
+      },
+      "Perjantai": {
+        "Kahvila": "07.45 - 15.00",
+        "Lounas": "10.30 - 13.30"
+      }
+    },
+    "osoite": "Kaartokatu 2\\n11100 Riihimäki",
+    "id": "96"
+  },
+  "Visis": {
+    "name": "Ravintola Visis",
+    "location": "Hämeenlinna",
+    "open": {
+      "Maanantai": {
+        "Aamupala": "07.45 - 10.00",
+        "Kahvila": "07.45 - 18.00",
+        "Lounas": "10.30 - 14.00"
+      },
+      "Tiistai": {
+        "Aamupala": "07.45 - 10.00",
+        "Kahvila": "07.45 - 18.00",
+        "Lounas": "10.30 - 14.00"
+      },
+      "Keskiviikko": {
+        "Aamupala": "07.45 - 10.00",
+        "Kahvila": "07.45 - 18.00",
+        "Lounas": "10.30 - 14.00"
+      },
+      "Torstai": {
+        "Aamupala": "07.45 - 10.00",
+        "Kahvila": "07.45 - 18.00",
+        "Lounas": "10.30 - 14.00"
+      },
+      "Perjantai": {
+        "Aamupala": "07.45 - 10.00",
+        "Kahvila": "07.45 - 18.00",
+        "Lounas": "10.30 - 14.00"
+      }
+    },
+    "osoite": "Visamäentie 35 \\n 13500 Hämeenlinna",
+    "id": "10229"
+  }
+}
